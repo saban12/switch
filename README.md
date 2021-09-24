@@ -1,5 +1,6 @@
 # switch
 learn switch func
+If you find yourself repeating else if statements in your code, where each condition is based on the same value, then it might be time to use a switch statement.
 
 var month = 3;
 
